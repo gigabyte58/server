@@ -35,6 +35,7 @@ module.exports = {
       "model": "gpt-3.5-turbo-0613",
       "temperature": 0.9,
       "top_p": 1,
+      "max_tokens": 120,
       "presence_penalty": 1,
       "frequency_penalty": 1
     });
