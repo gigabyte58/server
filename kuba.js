@@ -32,7 +32,7 @@ module.exports = {
             "content": query,
         }
       ],
-      "model": "gpt-3.5",
+      "model": "gpt-3.5-turbo-0613",
       "temperature": 0.9,
       "top_p": 1,
       "presence_penalty": 1,
